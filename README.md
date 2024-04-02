@@ -23,7 +23,7 @@
 # [Object Serializer](https://github.com/nazmos-sakib/Android_Development_Guide/wiki/Object-Serializer)
 # [Keyboard Management](https://github.com/nazmos-sakib/Android_Development_Guide/wiki/Keyboard-Management)
 # [Importing Photo From Camera](https://github.com/nazmos-sakib/Android_Development_Guide/wiki/Importing-Photo-From-Camera)
-# []()
-# []()
+# [Bottom Nav View]()
+# [Universal Callback]()
 
 
